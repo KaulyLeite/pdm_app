@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">PDM App</string>
+    <string name="menu_title">Menu Principal:</string>
+    <string name="option_buttons_events">Botões e Eventos</string>
+    <string name="version_information">Versão: %s</string>
+    <string name="developer_information">Powered by Kauly</string>
 </resources>
